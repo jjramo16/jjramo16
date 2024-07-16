@@ -9,5 +9,4 @@
     <a href="https://www.linkedin.com/in/jeonne-ramoso/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:auto; height:50px;">
     </a>
-    
 </div>
