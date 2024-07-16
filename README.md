@@ -1,1 +1,1 @@
-!['JJ_Banner'](JJ_banner.png)
+!['JJ_Banner'](JJ_BANNER.png)
