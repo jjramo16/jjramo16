@@ -1,4 +1,4 @@
-!['JJ_Banner'](JJ_BANNER.png)
+!['JJ_Banner'](JJ-banner.png)
 
 <h1 align="center"><b>Hello! 👋, I'm JJ. Connect with me here:</b></h1>
 
